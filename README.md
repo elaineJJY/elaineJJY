@@ -1,11 +1,11 @@
-#Yoo, I'm Jingyi Jia 👋
+## Yoo, I'm Jingyi Jia 👋
 
 + 🇩🇪 TU München - MSc. in Computing Science, 04/2022 - Now
-	+ Working Student in the IT Architecture department at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg" height="40" alt="siemens Icon" title="siemens  Icon">"/>, 11/2022 - Now
+	+ Working Student in the IT Architecture department at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg" height="40" alt="siemens Icon" title="siemens  Icon">, 11/2022 - Now
 
 + 🇩🇪 TU Darmstadt - BSc. in Computer Science, 10/2018 - 12/2021
-  + Software Engineer Intern at <img src="https://i.328888.xyz/2023/02/19/Xm4Nc.png" height="30" alt="siemens Icon" title="siemens  Icon">"/>, 9/2021 - 1/2022
-  + Tutor for Computer networks and distributed systems at <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" height="40" alt="TU Darmstadt" title="siemens  Icon">"/>, 6/2020 - 1/2021
+  + Software Engineer Intern at <img src="https://i.328888.xyz/2023/02/19/Xm4Nc.png" height="30" alt="siemens Icon" title="siemens  Icon">, 9/2021 - 1/2022
+  + Tutor for Computer networks and distributed systems at <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" height="40" alt="TU Darmstadt" title="siemens  Icon">, 6/2020 - 1/2021
 
 
 
