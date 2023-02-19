@@ -1,6 +1,6 @@
 ## Yoo, I'm Jingyi Jia 👋
 
-+ 🇩🇪 TU München - MSc. in Computing Science, 04/2022 - Now
++ 🇩🇪 TU München - MSc. in Computer Science, 04/2022 - Now
 	+ Working Student in the IT Architecture department at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg" height="30" alt="siemens Icon" title="siemens  Icon">, 11/2022 - Now
 
 + 🇩🇪 TU Darmstadt - BSc. in Computer Science, 10/2018 - 12/2021
