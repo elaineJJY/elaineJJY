@@ -18,5 +18,5 @@
 
 <table>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=elaineJJY&count_private=true&show_icons=true&theme=noctis_minimus&hide=stars&include_all_commits=true" /></td> 
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaineJJY&hide=c%23,Tex,ShaderLab,jupyter%20notebook&exclude_repo=[Deep%2DLearning]&layout=compact&hide_progress=false&theme=noctis_minimus" /></td> </tr>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaineJJY&hide=c%23,Tex,ShaderLab,jupyter%20notebook&exclude_repo=deep%2Dlearning&layout=compact&hide_progress=false&theme=noctis_minimus" /></td> </tr>
 </table>
