@@ -5,7 +5,7 @@
 
 + 🇩🇪 TU Darmstadt - BSc. in Computer Science, 10/2018 - 12/2021
   + Software Engineer Intern at <img src="https://i.328888.xyz/2023/02/19/Xm4Nc.png" height="20" alt="siemens Icon" title="siemens  Icon">, 9/2021 - 1/2022
-  + Tutor for Computer networks and distributed systems at <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" height="30" alt="TU Darmstadt" title="siemens  Icon">, 6/2020 - 1/2021
+  + Teaching Assistant for Computer networks and distributed systems at <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" height="30" alt="TU Darmstadt" title="siemens  Icon">, 6/2020 - 1/2021
 
 
 
