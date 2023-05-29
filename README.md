@@ -1,5 +1,5 @@
 ## Yoo, I'm Jingyi Jia 👋
-> I'm a software engineer who is passionate about exploring new technologies, creating innovative solutions, and building community. Some technologies I enjoy working with include Java and Cloud Computing, with a focus on backend development. 
+> I'm a software engineer who is passionate about exploring new technologies and creating innovative solutions. I am highly enthusiastic about backend development and find great satisfaction in working with Java and Cloud Computing technologies.
 > 
 > Currently, I'm pursuing my MSc. in Computer Science at TU München and working as a Working Student in the IT Architecture department at BMW.
 
@@ -32,4 +32,3 @@
 </table>
 
 If you like this readme file, please give me star! ❤️
-
