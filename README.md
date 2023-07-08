@@ -26,7 +26,7 @@
 <table>
 <tr>
   <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=elaineJJY&count_private=false&show_icons=true&theme=noctis_minimus&hide=stars&include_all_commits=true&hide_rank=true" height="200" /></td> 
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaineJJY&hide=c%23,Tex,ShaderLab,jupyter%20notebook,CMake,Batchfile,HLSL,Shell&exclude_repo=deep%2Dlearning&layout=compact&hide_progress=false&theme=noctis_minimus" height="200" /></td>
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaineJJY&hide=c%23,Tex,ShaderLab,jupyter%20notebook,CMake,Batchfile,HLSL,Mathematica,GLSL&exclude_repo=deep%2Dlearning&layout=compact&hide_progress=false&theme=noctis_minimus" height="200" /></td>
   <td><img align="center" src="https://github-profile-trophy.vercel.app/?username=elaineJJY&theme=flat&rank=-C,-B&row=2&column=2" height="200" /></td>
 </tr> 
 </table>
