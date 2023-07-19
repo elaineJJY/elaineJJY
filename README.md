@@ -7,7 +7,7 @@
 	+ Working Student in the IT Architecture department at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg" height="30" alt="siemens Icon" title="siemens  Icon">, 11/2022 - Now
 
 + 🇩🇪 TU Darmstadt - BSc. in Computer Science, 10/2018 - 12/2021
-  + Software Engineer Intern at <img src="https://i.328888.xyz/2023/02/19/Xm4Nc.png" height="20" alt="siemens Icon" title="siemens  Icon">, 9/2021 - 1/2022
+  + Software Engineer Intern at  <img src="https://raw.githubusercontent.com/elaineJJY/Storage/12fcb458bf2ff461881c63ae527661bee45b8e2e/Picture/SIE.DE_BIG-8513f49c.png" height="15" alt="siemens Icon" title="siemens  Icon"> , 9/2021 - 1/2022
   + Teaching Assistant for Computer networks and distributed systems at <img src="https://upload.wikimedia.org/wikipedia/de/2/24/TU_Darmstadt_Logo.svg" height="30" alt="TU Darmstadt" title="siemens  Icon">, 6/2020 - 1/2021
 
 
