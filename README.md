@@ -1,7 +1,7 @@
 ## Yoo, I'm Jingyi Jia 👋
 > I'm a software engineer who is passionate about exploring new technologies and creating innovative solutions. I am highly enthusiastic about backend development and find great satisfaction in working with Java and Cloud Computing technologies.
 > 
-> Currently, I'm pursuing my MSc. in Computer Science at TU München and working as a Working Student in the IT Architecture department at BMW.
+> Currently, I'm pursuing my MSc. in Computer Science at TU München.
 
 + 🇩🇪 TU München - MSc. in Computer Science, 04/2022 - Now
 	+ Working Student in the IT Architecture department at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg" height="30" alt="siemens Icon" title="siemens  Icon">, 11/2022 - 04/2024
